@@ -1,0 +1,29 @@
+[
+{
+	"name": "CAPPUCCINO",
+	"description": "100% Pure Coffee.",
+	"price": "$3",
+	"photo": {
+		"__type": "File",
+		"name": "cappuccino.png"
+	}
+},
+{
+	"name": "LATTE",
+	"description": "100% Pure Coffee.",
+	"price": "$2",
+	"photo": {
+		"__type": "File",
+		"name": "latte.png"
+	}
+},
+{
+	"name": "AMERICANO",
+	"description": "Americano",
+	"price": "$4",
+	"photo": {
+		"__type": "File",
+		"name": "Americano.png"
+	}
+}
+]

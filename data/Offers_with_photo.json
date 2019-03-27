@@ -1,0 +1,48 @@
+[
+{
+	"item1": {
+		"__type": "Relation",
+		"className": "Burgers"
+	},
+	"item2": {
+		"__type": "Relation",
+		"className": "Beverages"
+	}
+},
+{
+	"photo": {
+		"__type": "File",
+		"name": "Salsa-whopper-_LTO_website-1000x550-px-18th-august-01.png"
+	}
+},
+{
+	"photo": {
+		"__type": "File",
+		"name": "BK-Quenches_1000-x-550_Artboard-1.png"
+	}
+},
+{
+	"photo": {
+		"__type": "File",
+		"name": "03224-1-2for10-Desktop-1080x450_CR.png"
+	}
+},
+{
+	"photo": {
+		"__type": "File",
+		"name": "03224-1-2for6-Desktop-1080x450_CR_0.png"
+	}
+},
+{
+	"photo": {
+		"__type": "File",
+		"name": "03156-4-ChickenFries_Desktop-Image-1080x450_CR.png"
+	}
+},
+{
+	"photo": {
+		"__type": "File",
+		"name": "03156-3-169Nugs_Desktop_1080x450_CR.png"
+	}
+}
+]

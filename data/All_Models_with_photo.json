@@ -1,0 +1,203 @@
+{
+	"Restaurants": [
+		{
+            "objectId": "zkCacQINqm",
+            "name": "Kota Kachori",
+            "description": "It’s early hours and Koramangala is already bustling with throngs of people rushing to work. But first, they make a detour and walk straight into Kota Kachori. Well, it’s hard not to, especially when that dhaniya chutney fragrance wafts your way. Things like kachori and jalebi sit tantalizingly on the menu, and there’s the added pleasure of watching ghevar being prepared right in front of your eyes.",
+            "phone": "080 49652458",
+            "photo": {
+                "__type": "File",
+                "name": "kachori.PNG"
+            }
+        },
+        {
+            "objectId": "KsxFE8cz9X",
+            "name": "Samosa Singh",
+            "description": "Street Food, Fast Food, Desserts. 200 for two people (approx.)",
+            "phone": "080 49653238",
+            "photo": {
+                "__type": "File",
+                "name": "samosa.PNG"
+            }
+        },
+        {
+            "objectId": "n2UZwrKEjn",
+            "name": "Momo Junction",
+            "description": "Momo Junction, is a one-stop place for momo lovers with good spread of chicken momo.Fast Food, Momos. 20% off on all orders.",
+            "phone": "+91 9980915515",
+            "photo": {
+                "__type": "File",
+                "name": "momo.PNG"
+            }
+        },
+        {
+            "objectId": "GIPlAEK8nY",
+            "name": "Savi Sagar",
+            "description": "Roti curry, Stuff Naan and Bonda soup, dal the salad.South Indian, North Indian, Chinese",
+            "phone": "+91 9353050401",
+            "photo": {
+                "__type": "File",
+                "name": "savi.PNG"
+            }
+        },
+        {
+            "objectId": "szEaj8B5iG",
+            "name": "Kabab Magic",
+            "description": "Chicken Grill, Chicken Tikka Roll, Shawarma Roll, Chicken Shawarama, Rolls, Biryani Combo, Arabian Grape Juice",
+            "phone": "080 26570381",
+            "photo": {
+                "__type": "File",
+                "name": "kabab.PNG"
+            }
+        },
+        {
+            "objectId": "Z41dIFsUZP",
+            "name": "Al Amanah Cafe",
+            "description": "Rolls, Jumbo Chicken Roll, Falafel Roll, Chicken Kudu Roll, Shawarma, Mutton Roll, Spicy Roll",
+            "phone": "+91 9900029506",
+            "photo": {
+                "__type": "File",
+                "name": "allaman.PNG"
+            }
+        }
+	],
+	"TopRated": [
+		{
+            "objectId": "lH86zJOGYW",
+            "name": "The Pizza Bakery",
+            "description": "Beer, Tiramisu, Vanilla Ice Cream, Stuffed Garlic Bread, Nachos, Coke Float, Cajun Chicken Pizza",
+            "phone": "080 49652968",
+            "photo": {
+                "__type": "File",
+                "name": "pizzabakery.PNG"
+            }
+        },
+        {
+            "objectId": "xj5IYF8EY3",
+            "name": "1131 Bar + Kitchen",
+            "description": "Easy and Breezy. That’s 1131 for you. Kick-back with a few drinks, nibblers and peppy music while enjoying the openness of the space after a long day at work. Be it their sophisticated lounge area with fern-green leather sofas, the semi-open courtyard, or their eclectic menu, 1131 Bar + Kitchen is a restobar that has ‘something for everyone’.",
+            "phone": "080 45128649",
+            "photo": {
+                "__type": "File",
+                "name": "brewandbarbe.PNG"
+            }
+        },
+        {
+            "objectId": "JztxjPLpSP",
+            "name": "Nakkshatra",
+            "description": "Paan Shot, Kalmi Kabab, Chicken Lollipop, Murgh Lababdar, Paneer Khurchan, Cocktails, Dum Ka Chicken",
+            "phone": "080 49652580",
+            "photo": {
+                "__type": "File",
+                "name": "nakshatra.PNG"
+            }
+        },
+        {
+            "objectId": "3EZY6d57oK",
+            "name": "HOMMS",
+            "description": "Pasta, Jalapeno Cheeseballs, Chicken Wings, Afghani Momos, Roasted Chilli",
+            "phone": "080 49652648",
+            "photo": {
+                "__type": "File",
+                "name": "homms.PNG"
+            }
+        },
+        {
+            "objectId": "0rDjHwQ0j0",
+            "name": "OKI",
+            "description": "Khau Suey, Ravioli, Pork Ribs, Tender Coconut Ice Cream, Mocktails, Sushi, Crab Cake",
+            "phone": "080 49652158",
+            "photo": {
+                "__type": "File",
+                "name": "oki.PNG"
+            }
+        }
+	],
+	"Offers": [		
+		{
+            "objectId": "OUwzpuba41",
+            "photo": {
+                "__type": "File",
+                "name": "1541762703716.jpg"
+            },
+			"restaurant": {
+				"__type": "Pointer",
+				"className": "Restaurants",
+				"objectId": "KsxFE8cz9X"
+			},
+			"toprated": {
+				"__type": "Pointer",
+				"className": "TopRated",
+				"objectId": "lH86zJOGYW"
+			}
+        },
+        {
+            "objectId": "APwuJFxzXX",
+            "photo": {
+                "__type": "File",
+                "name": "box8-50-percent-off-848x470.jpg"
+            },
+			"restaurant": {
+				"__type": "Pointer",
+				"className": "Restaurants",
+				"objectId": "n2UZwrKEjn"
+			},
+			"toprated": {
+				"__type": "Pointer",
+				"className": "TopRated",
+				"objectId": "xj5IYF8EY3"
+			}
+        },
+        {
+            "objectId": "W5B7cxb8sU",
+            "photo": {
+                "__type": "File",
+                "name": "GMFaVYnDiiOUAdFIsiCoEjbBy1JPKy4s.jpg"
+            },
+			"restaurant": {
+				"__type": "Pointer",
+				"className": "Restaurants",
+				"objectId": "GIPlAEK8nY"
+			},
+			"toprated": {
+				"__type": "Pointer",
+				"className": "TopRated",
+				"objectId": "JztxjPLpSP"
+			}
+        },
+        {
+            "objectId": "Cu6eGsaaPe",
+            "photo": {
+                "__type": "File",
+                "name": "images.jpg"
+            },
+			"restaurant": {
+				"__type": "Pointer",
+				"className": "Restaurants",
+				"objectId": "szEaj8B5iG"
+			},
+			"toprated": {
+				"__type": "Pointer",
+				"className": "TopRated",
+				"objectId": "3EZY6d57oK"
+			}
+        },
+        {
+            "objectId": "QkhFbicCt3",
+            "photo": {
+                "__type": "File",
+                "name": "Zomato-Chennai-Offer.jpg"
+            },
+			"restaurant": {
+				"__type": "Pointer",
+				"className": "Restaurants",
+				"objectId": "Z41dIFsUZP"
+			},
+			"toprated": {
+				"__type": "Pointer",
+				"className": "TopRated",
+				"objectId": "0rDjHwQ0j0"
+			}
+        }
+	]
+}

@@ -1,0 +1,56 @@
+[
+{
+	"name": "CHICKEN WHOPPER",
+	"description": "One bite of this flavourful burger, starring a flame-grilled, juicy 100%* chicken patty, will make you go mmmmm.Our advice: hold it with both hands to eat it.\nBK® Recommends: Go double for twice the fun.",
+	"price": "$6",
+	"photo": {
+		"__type": "File",
+		"name": "ChickenWhopper-Detail_1.png"
+	}
+},
+{
+	"name": "SALSA WHOPPER® CHICKEN",
+	"description": "It is served in a freshly-toasted sesame seed bun, complemented perfectly with tangy pickles, fresh tomatoes, lettuce and onions, laced with mayonnaise & ketchup.",
+	"price": "$8",
+	"photo": {
+		"__type": "File",
+		"name": "Salsa-Whopper-Chicken.png"
+	}
+},
+{
+	"name": "CHICKEN TANDOOR GRILL",
+	"description": "A juicy whole, boneless chicken leg marinated in our spices and flame-grilled in our broiler, layered with tangy mint mayonnaise and onions, served in premium corn-dust buns. A delightful fusion of India’s fine culinary traditions, and BURGER KING flame grilled heritage, this is our tribute to the taste that makes India famous all over the globe.",
+	"price": "$10",
+	"photo": {
+		"__type": "File",
+		"name": "new-tandoori-chicken-500X540.png"
+	}
+},
+{
+	"name": "CHICKEN CHILLI CHEESE",
+	"description": "Bite into the crispy chicken burger and enjoy the sensation of the delectable creamy cheese in your mouth. The cheese & chicken indulgence is complemented with red chilli flakes, pickled cucumber, and our flavourful tomato-herb mayo for a little extra punch, served in our oven-fresh 4-inch sesame seed bun.",
+	"price": "$7",
+	"photo": {
+		"__type": "File",
+		"name": "CHICKEN-CHILLI-BURGER-500X540_6.png"
+	}
+},
+{
+	"name": "BK GRILL CHICKEN",
+	"description": "Our heritage of flame grilling is what makes this classic grilled chicken burger stand apart. Look out for the signature BURGER KING grill marks. A pure and wholesome chicken patty is complemented by a tangy mint mayo and onions. The flavours will remind you of an Indian classic loved by everyone.",
+	"price": "$9",
+	"photo": {
+		"__type": "File",
+		"name": "BKGrillChicken-Detail_0.png"
+	}
+},
+{
+	"name": "CRISPY CHICKEN",
+	"description": "A spicy crisp fried patty made of wholesome chicken, topped with sliced onions, with creamy mayonnaise and angry sauce, served in a 4-inch sesame seed bun. BURGER KING delivers unmatched quality at great value.",
+	"price": "$7",
+	"photo": {
+		"__type": "File",
+		"name": "detail_originalImage_Crispy_Chicken.png"
+	}
+}
+]
