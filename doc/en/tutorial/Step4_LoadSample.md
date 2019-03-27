@@ -1,6 +1,6 @@
 ## Step 4:  Load face recognition Sample from Github
 
-1.	Open the Command prompt and navigate to your development workspace. Then run `git clone http://rnd-gitlab-ca-g.huawei.com/PaaS/servicestage/services/facerecodemo.git`  
+1.	Open the Command prompt and navigate to your development workspace. Then run `git clone https://github.com/CPE-OAuth/servicestage-face-recognition-mobileapp-example.git`  
 
     If you are having issues cloning the project, you can instead visit the url and download the project as a zip.
 
